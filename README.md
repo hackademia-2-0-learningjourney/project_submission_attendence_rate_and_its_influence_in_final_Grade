@@ -1,4 +1,6 @@
 Group_Name : SmartSparks
+
+
 Group Members: Nirajan Subedi, Pratik Neupane, Sadip Tamang, Umang Manandhar
 
 Project Name: Attendance Rate and Its Influence on Final Grades 
